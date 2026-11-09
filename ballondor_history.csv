@@ -1,0 +1,173 @@
+year,player,club,position_name,rank,goals,assists,total_shots,trophy_score,model_score,model_place
+2018,Luka Modrić,Real Madrid,Midfielder,1,1.0,6.0,35.0,25.0,11.879377685054552,9
+2018,Cristiano Ronaldo,Real Madrid,Forward,2,26.0,5.0,174.0,15.0,5.666810609930444,3
+2018,Antoine Griezmann,Atlético Madrid,Forward,3,19.0,9.0,70.0,20.0,12.118489165674484,10
+2018,Kylian Mbappé,Paris Saint-Germain,Forward,4,13.0,8.0,78.0,26.0,11.23542300252424,8
+2018,Lionel Messi,Barcelona,Forward,5,34.0,12.0,193.0,10.0,3.550529194286081,1
+2018,Mohamed Salah,Liverpool,Forward,6,32.0,10.0,142.0,8.0,4.009482178801565,2
+2018,Raphaël Varane,Real Madrid,Defender,7,0.0,1.0,10.0,35.0,17.46324378876724,21
+2018,Eden Hazard,Chelsea,Forward,8,12.0,4.0,69.0,0.0,17.014558037084583,19
+2018,Kevin De Bruyne,Manchester City,Midfielder,9,8.0,16.0,93.0,10.0,19.640208781363082,27
+2018,Harry Kane,Tottenham Hotspur,Forward,10,30.0,2.0,181.0,0.0,12.69959825318524,12
+2018,N'Golo Kanté,Chelsea,Midfielder,11,1.0,1.0,25.0,20.0,16.510253314244558,17
+2018,Neymar,Paris Saint-Germain,Forward,12,19.0,13.0,86.0,6.0,11.223044254332871,7
+2018,Luis Suárez,Barcelona,Forward,13,25.0,12.0,120.0,10.0,10.383187800659789,6
+2018,Thibaut Courtois,Chelsea,Goalkeeper,14,0.0,0.0,0.0,0.0,18.249289121866887,26
+2018,Paul Pogba,Manchester United,Midfielder,15,6.0,10.0,76.0,20.0,16.941644673641623,18
+2018,Sergio Agüero,Manchester City,Forward,16,21.0,6.0,90.0,10.0,10.205624085783587,5
+2018,Gareth Bale,Real Madrid,Forward,17,16.0,2.0,76.0,15.0,17.484769389038686,22
+2018,Karim Benzema,Real Madrid,Forward,17,5.0,10.0,61.0,15.0,14.07700050053534,13
+2018,Roberto Firmino,Liverpool,Forward,19,15.0,7.0,83.0,8.0,17.683992690514543,23
+2018,Ivan Rakitić,Barcelona,Midfielder,19,1.0,5.0,28.0,20.0,19.766333361156295,28
+2018,Sergio Ramos,Real Madrid,Defender,19,4.0,1.0,25.0,15.0,17.962798002588382,25
+2018,Edinson Cavani,Paris Saint-Germain,Forward,22,28.0,6.0,100.0,6.0,8.181478598489546,4
+2018,Sadio Mané,Liverpool,Forward,22,10.0,7.0,70.0,8.0,12.134840195201697,11
+2018,Alisson,Roma,Goalkeeper,25,0.0,0.0,0.0,0.0,17.85021389181871,24
+2018,Mario Mandžukić,Juventus,Forward,25,5.0,1.0,50.0,18.0,16.229336743480747,16
+2018,Jan Oblak,Atlético Madrid,Goalkeeper,25,0.0,0.0,0.0,0.0,17.46195891640999,20
+2018,Diego Godín,Atlético Madrid,Defender,28,0.0,0.0,13.0,0.0,21.332300624910825,29
+2018,Isco,Real Madrid,Midfielder,50,7.0,7.0,49.0,15.0,15.754213188621309,14
+2018,Hugo Lloris,Tottenham Hotspur,Goalkeeper,50,0.0,0.0,0.0,20.0,15.816678291148262,15
+2019,Lionel Messi,Barcelona,Forward,1,36.0,13.0,165.0,10.0,5.751417780028669,1
+2019,Virgil van Dijk,Liverpool,Defender,2,4.0,2.0,31.0,15.0,21.934570470769906,25
+2019,Cristiano Ronaldo,Juventus,Forward,3,21.0,8.0,171.0,8.0,14.340713421823189,8
+2019,Sadio Mané,Liverpool,Forward,4,22.0,1.0,87.0,15.0,15.379261052794071,10
+2019,Mohamed Salah,Liverpool,Forward,5,22.0,8.0,134.0,15.0,12.178876156131187,4
+2019,Kylian Mbappé,Paris Saint-Germain,Forward,6,33.0,7.0,123.0,6.0,7.246941928427604,2
+2019,Alisson,Liverpool,Goalkeeper,7,0.0,0.0,0.0,27.0,13.50244173881674,7
+2019,Robert Lewandowski,Bayern Munich,Forward,8,22.0,7.0,140.0,8.0,12.47870510081804,6
+2019,Bernardo Silva,Manchester City,Midfielder,9,7.0,7.0,62.0,10.0,18.048056820597367,15
+2019,Riyad Mahrez,Manchester City,Forward,10,7.0,4.0,53.0,10.0,18.713122384057858,20
+2019,Raheem Sterling,Manchester City,Forward,12,17.0,9.0,77.0,10.0,19.576755200471837,21
+2019,Eden Hazard,Chelsea,Forward,13,16.0,15.0,89.0,0.0,16.15979943291553,11
+2019,Kevin De Bruyne,Manchester City,Midfielder,14,2.0,2.0,31.0,10.0,18.646550363518628,17
+2019,Sergio Agüero,Manchester City,Forward,16,21.0,8.0,116.0,10.0,12.27316997286823,5
+2019,Roberto Firmino,Liverpool,Forward,17,12.0,6.0,74.0,27.0,10.472791076754786,3
+2019,Antoine Griezmann,Atlético Madrid,Forward,18,15.0,8.0,110.0,0.0,19.93043052758482,22
+2019,Trent Alexander-Arnold,Liverpool,Defender,19,1.0,12.0,29.0,15.0,18.375209441246444,16
+2019,Pierre-Emerick Aubameyang,Arsenal,Forward,20,22.0,5.0,89.0,0.0,15.314286224687766,9
+2019,Son Heung-min,Tottenham Hotspur,Forward,22,12.0,6.0,74.0,8.0,16.3949035627303,13
+2019,Hugo Lloris,Tottenham Hotspur,Goalkeeper,23,0.0,0.0,0.0,8.0,18.01140403120296,14
+2019,Kalidou Koulibaly,Napoli,Defender,24,2.0,2.0,19.0,0.0,20.970884323136474,24
+2019,Marc-André ter Stegen,Barcelona,Goalkeeper,24,0.0,0.0,0.0,10.0,18.651323261182156,18
+2019,Karim Benzema,Real Madrid,Forward,26,21.0,6.0,101.0,0.0,16.27108527026953,12
+2019,Georginio Wijnaldum,Liverpool,Midfielder,26,3.0,0.0,30.0,15.0,20.027181811561988,23
+2019,Marquinhos,Paris Saint-Germain,Defender,28,3.0,2.0,11.0,18.0,18.659815297562005,19
+2021,Lionel Messi,Barcelona,Forward,1,30.0,9.0,191.0,12.0,7.405645825193037,2
+2021,Robert Lewandowski,Bayern Munich,Forward,2,41.0,7.0,128.0,8.0,6.3754082649768975,1
+2021,Jorginho,Chelsea,Midfielder,3,7.0,1.0,5.0,27.0,11.621965418472076,7
+2021,Karim Benzema,Real Madrid,Forward,4,23.0,9.0,122.0,0.0,16.551799205068356,15
+2021,N'Golo Kanté,Chelsea,Midfielder,5,0.0,2.0,10.0,15.0,21.765448323853818,26
+2021,Cristiano Ronaldo,Juventus,Forward,6,29.0,2.0,160.0,0.0,10.40277510804988,6
+2021,Mohamed Salah,Liverpool,Forward,7,22.0,5.0,120.0,0.0,15.914103814659505,13
+2021,Kevin De Bruyne,Manchester City,Midfielder,8,6.0,12.0,77.0,18.0,16.797793287673347,16
+2021,Kylian Mbappé,Paris Saint-Germain,Forward,9,27.0,7.0,98.0,0.0,9.732813726839499,5
+2021,Gianluigi Donnarumma,AC Milan,Goalkeeper,10,0.0,0.0,0.0,12.0,21.072576787619838,24
+2021,Erling Haaland,Borussia Dortmund,Forward,11,27.0,6.0,89.0,0.0,12.474007185843908,8
+2021,Romelu Lukaku,Inter Milan,Forward,12,24.0,11.0,90.0,8.0,12.92678018152348,9
+2021,Giorgio Chiellini,Juventus,Defender,12,0.0,1.0,6.0,12.0,22.099070551451877,27
+2021,Leonardo Bonucci,Juventus,Defender,14,2.0,0.0,16.0,12.0,22.962174786814476,29
+2021,Raheem Sterling,Manchester City,Forward,15,10.0,7.0,69.0,24.0,9.157734064002446,4
+2021,Neymar,Paris Saint-Germain,Midfielder,16,9.0,5.0,64.0,6.0,16.54245929930504,14
+2021,Luis Suárez,Atlético Madrid,Forward,17,21.0,3.0,101.0,10.0,15.053690073990797,11
+2021,Simon Kjær,AC Milan,Defender,17,0.0,2.0,16.0,0.0,22.80941846235253,28
+2021,Mason Mount,Chelsea,Midfielder,19,6.0,5.0,81.0,21.0,14.429641771693774,10
+2021,Riyad Mahrez,Manchester City,Forward,19,9.0,6.0,58.0,18.0,18.50186809399458,20
+2021,Bruno Fernandes,Manchester United,Midfielder,21,18.0,12.0,111.0,0.0,20.29953215859032,23
+2021,Lautaro Martínez,Inter Milan,Forward,21,17.0,6.0,107.0,20.0,17.428892792934725,17
+2021,Harry Kane,Tottenham Hotspur,Forward,23,23.0,14.0,133.0,6.0,17.781609524512277,19
+2021,Pedri,Barcelona,Midfielder,24,3.0,3.0,25.0,0.0,17.55419793300197,18
+2021,Phil Foden,Manchester City,Forward,25,9.0,5.0,45.0,24.0,8.265725270662129,3
+2021,Gerard Moreno,Villarreal,Forward,26,23.0,7.0,87.0,0.0,19.40534180276373,21
+2021,Nicolò Barella,Inter Milan,Midfielder,26,3.0,7.0,36.0,20.0,15.885887560751613,12
+2021,Rúben Dias,Manchester City,Defender,26,1.0,0.0,14.0,18.0,24.926127879852114,30
+2021,Luka Modrić,Real Madrid,Midfielder,29,5.0,3.0,45.0,0.0,19.738028925126,22
+2021,Cesar Azpilicueta,Chelsea,Defender,29,1.0,2.0,11.0,15.0,21.71391179485312,25
+2022,Karim Benzema,Real Madrid,Forward,1,27.0,12.0,117.0,25.0,6.03642773293061,1
+2022,Sadio Mané,Liverpool,Forward,2,16.0,2.0,98.0,8.0,18.065438485081426,20
+2022,Kevin De Bruyne,Manchester City,Midfielder,3,15.0,8.0,78.0,10.0,15.40218185703828,13
+2022,Robert Lewandowski,Bayern Munich,Forward,4,35.0,3.0,156.0,8.0,7.396067143640675,2
+2022,Mohamed Salah,Liverpool,Forward,5,23.0,13.0,133.0,8.0,9.499507347731116,4
+2022,Kylian Mbappé,Paris Saint-Germain,Forward,6,28.0,17.0,143.0,6.0,10.420187739960998,6
+2022,Thibaut Courtois,Real Madrid,Goalkeeper,7,0.0,0.0,0.0,25.0,15.17738894438895,12
+2022,Vinícius Júnior,Real Madrid,Forward,8,17.0,10.0,80.0,25.0,7.9870406612822,3
+2022,Luka Modrić,Real Madrid,Midfielder,9,2.0,8.0,26.0,25.0,9.563138327825815,5
+2022,Erling Haaland,Borussia Dortmund,Forward,10,22.0,8.0,74.0,0.0,16.75951338242778,17
+2022,Son Heung-min,Tottenham Hotspur,Midfielder,11,23.0,7.0,86.0,0.0,11.763584699826403,7
+2022,Riyad Mahrez,Manchester City,Forward,12,11.0,5.0,56.0,10.0,14.096082961154327,9
+2022,Fabinho,Liverpool,Midfielder,14,5.0,1.0,19.0,8.0,22.37316257654806,27
+2022,Rafael Leão,AC Milan,Forward,14,11.0,10.0,97.0,8.0,16.187463105567915,15
+2022,Virgil van Dijk,Liverpool,Defender,16,3.0,1.0,35.0,8.0,21.72971951063601,26
+2022,Casemiro,Real Madrid,Midfielder,17,1.0,3.0,41.0,25.0,12.416179912878011,8
+2022,Luis Díaz,Liverpool,Forward,17,4.0,3.0,38.0,8.0,16.542744184181988,16
+2022,Dušan Vlahović,Fiorentina,Forward,17,17.0,2.0,69.0,0.0,17.638399540875543,19
+2022,Cristiano Ronaldo,Manchester United,Forward,20,18.0,3.0,107.0,0.0,16.836182579716915,18
+2022,Harry Kane,Tottenham Hotspur,Forward,21,17.0,9.0,129.0,0.0,15.937151120961833,14
+2022,Trent Alexander-Arnold,Liverpool,Defender,22,2.0,12.0,51.0,8.0,20.798900838217335,25
+2022,Phil Foden,Manchester City,Forward,22,9.0,5.0,57.0,10.0,14.387214058755918,10
+2022,Bernardo Silva,Manchester City,Midfielder,22,8.0,4.0,47.0,10.0,19.104450255970008,22
+2022,João Cancelo,Manchester City,Defender,25,1.0,7.0,81.0,10.0,14.921709941991026,11
+2022,Joshua Kimmich,Bayern Munich,Midfielder,25,3.0,9.0,27.0,8.0,20.304123805907427,24
+2022,Mike Maignan,AC Milan,Goalkeeper,25,0.0,1.0,0.0,8.0,18.74474733091948,21
+2022,Christopher Nkunku,RB Leipzig,Forward,25,20.0,13.0,81.0,0.0,20.144916916180602,23
+2022,Antonio Rüdiger,Chelsea,Defender,25,3.0,0.0,48.0,0.0,23.727309710237716,28
+2023,Lionel Messi,Paris Saint-Germain,Forward,1,16.0,16.0,129.0,26.0,5.395801220539156,3
+2023,Erling Haaland,Manchester City,Forward,2,36.0,8.0,116.0,25.0,4.36505738725256,1
+2023,Kylian Mbappé,Paris Saint-Germain,Forward,3,29.0,5.0,144.0,16.0,4.595723050856588,2
+2023,Kevin De Bruyne,Manchester City,Midfielder,4,7.0,16.0,65.0,25.0,9.374956227048498,9
+2023,Rodri,Manchester City,Midfielder,5,2.0,6.0,50.0,25.0,13.919154411485652,15
+2023,Vinícius Júnior,Real Madrid,Forward,6,10.0,9.0,77.0,0.0,16.29385518256366,19
+2023,Julián Álvarez,Manchester City,Forward,7,9.0,0.0,46.0,45.0,9.744909759358286,10
+2023,Victor Osimhen,Napoli,Forward,8,26.0,4.0,132.0,8.0,11.002210802452884,11
+2023,Bernardo Silva,Manchester City,Midfielder,9,4.0,5.0,25.0,25.0,7.778760127638813,5
+2023,Luka Modrić,Real Madrid,Midfielder,10,4.0,3.0,29.0,0.0,18.561029412680067,22
+2023,Mohamed Salah,Liverpool,Forward,11,19.0,12.0,121.0,0.0,11.999451875420537,13
+2023,Robert Lewandowski,Barcelona,Forward,12,23.0,7.0,134.0,10.0,7.059248674774182,4
+2023,Yassine Bounou,Sevilla,Goalkeeper,13,0.0,0.0,0.0,0.0,21.711978662201442,28
+2023,İlkay Gündoğan,Manchester City,Midfielder,14,8.0,4.0,53.0,25.0,7.897403407097882,6
+2023,Emiliano Martínez,Aston Villa,Goalkeeper,15,0.0,0.0,0.0,20.0,29.27381904195957,30
+2023,Karim Benzema,Real Madrid,Forward,16,19.0,3.0,99.0,10.0,8.469250112291318,7
+2023,Khvicha Kvaratskhelia,Napoli,Forward,17,12.0,10.0,83.0,8.0,15.533524274123122,17
+2023,Jude Bellingham,Borussia Dortmund,Midfielder,18,8.0,4.0,66.0,0.0,19.080512366415558,24
+2023,Harry Kane,Tottenham Hotspur,Forward,19,30.0,3.0,124.0,0.0,11.497811965955774,12
+2023,Lautaro Martínez,Inter Milan,Forward,20,21.0,6.0,125.0,28.0,8.50574963755075,8
+2023,Antoine Griezmann,Atlético Madrid,Forward,21,15.0,16.0,111.0,10.0,16.00398162072399,18
+2023,Kim Min-jae,Napoli,Defender,22,2.0,2.0,8.0,8.0,20.30860789474052,27
+2023,André Onana,Inter Milan,Goalkeeper,23,0.0,0.0,0.0,8.0,19.685278781254855,25
+2023,Bukayo Saka,Arsenal,Forward,24,14.0,11.0,86.0,0.0,18.545255527218043,21
+2023,Joško Gvardiol,RB Leipzig,Defender,25,1.0,0.0,14.0,0.0,22.118236014878832,29
+2023,Jamal Musiala,Bayern Munich,Midfielder,26,12.0,10.0,66.0,8.0,19.71638890984787,26
+2023,Nicolò Barella,Inter Milan,Midfielder,27,6.0,6.0,33.0,8.0,18.75310104045642,23
+2023,Randal Kolo Muani,Eintracht Frankfurt,Forward,28,15.0,11.0,75.0,10.0,12.516782530929307,14
+2023,Martin Ødegaard,Arsenal,Midfielder,28,15.0,7.0,93.0,0.0,15.26596394159205,16
+2023,Rúben Dias,Manchester City,Defender,30,0.0,0.0,10.0,25.0,18.08597994901207,20
+2024,Rodri,Manchester City,Midfielder,1,8.0,9.0,62.0,22.0,19.7086471444694,21
+2024,Vinícius Júnior,Real Madrid,Forward,2,15.0,5.0,77.0,25.0,9.300707717616282,5
+2024,Jude Bellingham,Real Madrid,Midfielder,3,19.0,6.0,62.0,31.0,13.046195079952348,9
+2024,Dani Carvajal,Real Madrid,Defender,4,4.0,3.0,18.0,37.0,13.674601361663655,10
+2024,Erling Haaland,Manchester City,Forward,5,27.0,5.0,113.0,10.0,8.84907420112567,3
+2024,Kylian Mbappé,Paris Saint-Germain,Forward,6,27.0,7.0,112.0,6.0,8.963222955299777,4
+2024,Lautaro Martínez,Inter Milan,Forward,7,24.0,3.0,105.0,20.0,10.839315444553943,7
+2024,Lamine Yamal,Barcelona,Forward,8,5.0,5.0,58.0,12.0,19.95288264315313,22
+2024,Toni Kroos,Real Madrid,Midfielder,9,1.0,8.0,35.0,25.0,7.974699494714783,2
+2024,Harry Kane,Bayern Munich,Forward,10,36.0,8.0,141.0,6.0,6.680131782433254,1
+2024,Phil Foden,Manchester City,Forward,11,19.0,8.0,105.0,16.0,14.648790244334526,11
+2024,Florian Wirtz,Bayer Leverkusen,Midfielder,12,11.0,11.0,70.0,8.0,16.102831786388396,14
+2024,Dani Olmo,RB Leipzig,Midfielder,13,4.0,5.0,45.0,12.0,19.60623314816738,20
+2024,Ademola Lookman,Atalanta,Forward,14,11.0,7.0,67.0,0.0,15.68536321764784,13
+2024,Nico Williams,Athletic Bilbao,Forward,15,5.0,11.0,56.0,12.0,15.353930820331325,12
+2024,Granit Xhaka,Bayer Leverkusen,Midfielder,16,3.0,0.0,45.0,8.0,22.882465646999083,30
+2024,Federico Valverde,Real Madrid,Midfielder,17,2.0,7.0,56.0,25.0,11.509597100803852,8
+2024,Emiliano Martínez,Aston Villa,Goalkeeper,18,0.0,0.0,0.0,12.0,18.01582187733733,16
+2024,Martin Ødegaard,Arsenal,Midfielder,19,8.0,10.0,75.0,0.0,18.339677048019315,17
+2024,Hakan Çalhanoğlu,Inter Milan,Midfielder,20,13.0,3.0,52.0,8.0,20.4639934578436,24
+2024,Bukayo Saka,Arsenal,Forward,21,16.0,9.0,102.0,6.0,20.12916513716096,23
+2024,Antonio Rüdiger,Real Madrid,Defender,22,1.0,0.0,19.0,25.0,19.07587748649067,18
+2024,Rúben Dias,Manchester City,Defender,23,0.0,0.0,20.0,10.0,22.580825398974245,29
+2024,William Saliba,Arsenal,Defender,24,2.0,1.0,10.0,0.0,22.07398358291623,28
+2024,Cole Palmer,Chelsea,Forward,25,22.0,11.0,100.0,6.0,17.978709151521215,15
+2024,Declan Rice,Arsenal,Midfielder,26,7.0,8.0,58.0,6.0,19.39416375015223,19
+2024,Vitinha,Paris Saint-Germain,Midfielder,27,7.0,4.0,45.0,6.0,21.907053532998933,26
+2024,Álex Grimaldo,Bayer Leverkusen,Defender,28,10.0,13.0,71.0,20.0,21.15249404181507,25
+2024,Artem Dovbyk,Girona,Forward,29,24.0,8.0,77.0,0.0,9.481236241699477,6
+2024,Mats Hummels,Borussia Dortmund,Defender,29,3.0,0.0,16.0,8.0,21.981527106970784,27
